@@ -1,0 +1,8 @@
+_extends: .github
+
+repository:
+  name: docker
+  description: Docker Template for Colophon
+  topics: colophon, docker
+  homepage: https://colophon.id
+  has_issues: true
