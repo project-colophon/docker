@@ -1,0 +1,33 @@
+version: 2.0
+
+id: colophon-docker
+
+about:
+  title: Colphon Docker
+  description: Dockerfiles for running the Colophon service
+
+contacts:
+  - type: author
+    name: Ahmad Nassri
+    email: ahmad@codeinchaos.com
+    github: ahmadnassri
+  - type: developer
+    name: Enrico Sacchetti
+    email: enrico@codeinchaos.com
+    github: theetrain
+  - type: developer
+    name: Kyle Spaans
+    email: kyle@codeinchaos.com
+    github: kspaans
+
+schedule:
+  launch: 2019-02-18T00:00:00.000Z
+
+environments:
+  - type: git
+    title: Source Code
+    uri: https://github.com/project-colophon/docker
+
+references:
+  - title: Documentation
+    uri: https://github.com/project-colophon/docker
